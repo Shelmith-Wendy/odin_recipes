@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(86, 86, 193);
+}
+
+h1{
+    color: bisque;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3{
+    color: beige;
+    background-color: rgb(43, 41, 96);
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
+
+
